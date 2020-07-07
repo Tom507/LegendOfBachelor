@@ -1,0 +1,277 @@
+<FragenV-Modell>
+
+	<Frage>
+
+		<number>1</number>
+
+		<_Frage>Das V-Modell ist eine Erweiterung _______</_Frage>
+
+		<AntwortR>des Wasserfall-Modells.</AntwortR>
+
+		<AntwortF>des Scrum Verfahrens.</AntwortF>
+		
+		<AntwortF>des Sequentiellen Paradigmas.</AntwortF>
+
+		<AntwortF>des Lucke Konzepts.</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>2</number>
+
+		<_Frage>Was versteht man unter Validierung?</_Frage>
+
+		<AntwortR>Ob das richtige Produkt entwickelt wird</AntwortR>
+
+		<AntwortF>Wie das Produkt entwickelt wird</AntwortF>
+		
+		<AntwortF>Ob das Produkt richtig entwickelt wird</AntwortF>
+
+		<AntwortF>Ob das Produkt praktikabel ist</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>3</number>
+
+		<_Frage>Um was erweitert das V-Modell seinen Vorgänger?</_Frage>
+
+		<AntwortR>Verifikation und Validierung</AntwortR>
+
+		<AntwortF>Mehr Kundennähe duch Seminare/Meetings</AntwortF>
+		
+		<AntwortF>Umfangreichere Tests</AntwortF>
+
+		<AntwortF>Die einfachere Skalierbarkeit</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>4</number>
+
+		<_Frage>Was versteht man unter Verifikation? </_Frage>
+
+		<AntwortR>Ob das Produkt richtig entwickelt wird</AntwortR>
+
+		<AntwortF>Wie das Produkt entwickelt wird</AntwortF>
+		
+		<AntwortF>Ob das richtige Produkt entwickelt wird</AntwortF>
+
+		<AntwortF>Ob das Produkt praktikabel ist</AntwortF>
+
+	</Frage>
+
+
+	<Frage>
+
+		<number>5</number>
+
+		<_Frage>Auf welcher Ebene wird validiert?</_Frage>
+
+		<AntwortR>In den Anwendungsszenarien</AntwortR>
+
+		<AntwortF>In den Testebenen</AntwortF>
+		
+		<AntwortF>In allen Ebenen</AntwortF>
+
+		<AntwortF>Nur bei Anwendung</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>6</number>
+
+		<_Frage>Auf welcher Ebene wird verifiziert?</_Frage>
+
+		<AntwortR>In allen Testebenen</AntwortR>
+
+		<AntwortF>In den Anwendungsszenarien</AntwortF>
+		
+		<AntwortF>In allen Ebenen</AntwortF>
+
+		<AntwortF>Nur bei Anwendung</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>7</number>
+
+		<_Frage>Was für Schritte finden auf der Anwendugsebene statt?</_Frage>
+
+		<AntwortR>Anforderungsdefinition und Abnahme-Test</AntwortR>
+
+		<AntwortF>Grobentwurf und Systemtest</AntwortF>
+		
+		<AntwortF>Feinentwurf und Integrationstest</AntwortF>
+
+		<AntwortF>Modulintegration und Modul-Test</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>8</number>
+
+		<_Frage>Was für Schritte finden in der 1. Testebene statt?</_Frage>
+
+		<AntwortR>Grobentwurf und Systemtest</AntwortR>
+
+		<AntwortF>Anforderungsdefinition und Abnahme-Test</AntwortF>
+		
+		<AntwortF>Feinentwurf und Integrationstest</AntwortF>
+
+		<AntwortF>Modulintegration und Modul-Test</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>9</number>
+
+		<_Frage>Was für Schritte finden in der 2. Testebene statt?</_Frage>
+
+		<AntwortR>Feinentwurf und Integrationstest</AntwortR>
+
+		<AntwortF>Modulintegration und Modul-Test</AntwortF>
+		
+		<AntwortF>Anforderungsdefinition und Abnahme-Test</AntwortF>
+
+		<AntwortF>Grobentwurf und Systemtest</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>10</number>
+
+		<_Frage>Was für Schritte finden in der 3. Testebene statt?</_Frage>
+
+		<AntwortR>Modulintegration und Modul-Test</AntwortR>
+
+		<AntwortF>Anforderungsdefinition und Abnahme-Test</AntwortF>
+		
+		<AntwortF>Grobentwurf und Systemtest</AntwortF>
+
+		<AntwortF>Feinentwurf und Integrationstest</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>11</number>
+
+		<_Frage>Was kommt nach der Anforderungsdefintion?</_Frage>
+
+		<AntwortR>Grobentwurf</AntwortR>
+
+		<AntwortF>Feinentwurf</AntwortF>
+		
+		<AntwortF>Modulentwicklung</AntwortF>
+
+		<AntwortF>Modultest</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>12</number>
+
+		<_Frage>Was kommt nach dem Grobentwurf?</_Frage>
+
+		<AntwortR>Feinentwurf</AntwortR>
+
+		<AntwortF>Modulentwicklung</AntwortF>
+
+		<AntwortF>Modultest</AntwortF>
+
+		<AntwortF>Systemtest</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>13</number>
+
+		<_Frage>Was kommt nach dem Feinentwurf?</_Frage>
+
+		<AntwortR>Modulimplementierung</AntwortR>
+
+		<AntwortF>Spezifikation</AntwortF>
+		
+		<AntwortF>Modultest</AntwortF>
+
+		<AntwortF>Anwendungstest</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>14</number>
+
+		<_Frage>Was kommt nach der Modulimplementierung</_Frage>
+
+		<AntwortR>Modultest</AntwortR>
+
+		<AntwortF>Systemcheck</AntwortF>
+		
+		<AntwortF>Systemtest</AntwortF>
+
+		<AntwortF>Spezifikation</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>15</number>
+
+		<_Frage>Was folgt auf den Modultest?</_Frage>
+
+		<AntwortR>Integrationstest</AntwortR>
+
+		<AntwortF>Anforderungstest</AntwortF>
+		
+		<AntwortF>Belastungstest</AntwortF>
+
+		<AntwortF>Abnahmetest</AntwortF>
+
+	</Frage>
+	
+	<Frage>
+
+		<number>16</number>
+
+		<_Frage>Was folgt auf den Integrationstest?</_Frage>
+
+		<AntwortR>Systemtest</AntwortR>
+
+		<AntwortF>Anforderungstest</AntwortF>
+		
+		<AntwortF>Belastungstest</AntwortF>
+
+		<AntwortF>Abnahmetest</AntwortF>
+
+
+	</Frage>
+
+	<Frage>
+
+		<number>17</number>
+
+		<_Frage>Was folgt auf den Systemtest?</_Frage>
+
+		<AntwortR>Abnahmetest</AntwortR>
+
+		<AntwortF>Anforderungstest</AntwortF>
+		
+		<AntwortF>Belastungstest</AntwortF>
+
+		<AntwortF>Abnahme-Meeting</AntwortF>
+
+	</Frage>
+
+</FragenV-Modell>

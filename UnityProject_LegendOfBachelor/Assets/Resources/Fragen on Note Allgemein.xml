@@ -1,0 +1,249 @@
+<FragenAllgemein>
+
+
+	<Frage>
+
+		<number>1</number>
+
+		<_Frage>Was ist Software?</_Frage>
+
+		<AntwortR>Programme und Verfahren eines Computersystems</AntwortR>
+
+		<AntwortF>Games wie das hier</AntwortF>
+
+		<AntwortF>Eine weiche materielle Ware</AntwortF>
+
+		<AntwortF>Edward Snowdens Tagebuch</AntwortF>
+
+	</Frage>
+
+
+<Frage>
+
+		<number>2</number>
+
+		<_Frage>Was bedeutet Software Engineering?</_Frage>
+
+		<AntwortR>Planerisches Vorgehen bei Herstellung von Software, unter Einhaltung der Kosten</AntwortR>
+
+		<AntwortF>Einhaltung des Projektbudgets</AntwortF>
+
+		<AntwortF>Planerisches Vorgehen</AntwortF>
+
+		<AntwortF>Reine Arbeit nach Sequentiellen Paradigmen</AntwortF>
+
+</Frage>
+
+
+<Frage>
+
+		<number>3</number>
+
+		<_Frage>Was ist eine Software-Krise?</_Frage>
+
+		<AntwortR>Mangel an Qualität der Software </AntwortR>
+
+		<AntwortF>Mangel an der Software</AntwortF>
+
+		<AntwortF>Preisverfall der Software</AntwortF>
+
+		<AntwortF>Versions-Chaos</AntwortF>
+
+</Frage>
+
+
+	<Frage>
+
+		<number>4</number>
+
+		<_Frage>Was ist der erste Schritt eines Projekts?</_Frage>
+
+		<AntwortR>Das Problem zu verstehen</AntwortR>
+
+		<AntwortF>Eine Vision</AntwortF>
+		
+		<AntwortF>Geld zu beschaffen und das Budget festzulegen</AntwortF>
+
+		<AntwortF>Den Projektleiter zu bestimmen</AntwortF>
+
+	</Frage>
+
+
+	<Frage>
+
+		<number>5</number>
+
+		<_Frage>Was ist ein Vorgehensmodell?</_Frage>
+
+		<AntwortR>Es beschreibt, wie Menschen zusammenarbeiten sollen</AntwortR>
+
+		<AntwortF>Eine spezielle Form des Wanderns</AntwortF>
+		
+		<AntwortF>Eine Abarbeitung nach Schema F</AntwortF>
+
+		<AntwortF>Eine bodenständige Entwicklung von glücklichen Entwicklern</AntwortF>
+
+	</Frage>
+
+
+	<Frage>
+
+		<number>6</number>
+
+		<_Frage>Wann kann der Kunde Einfluss auf das Produkt nehmen, wenn ein Sequentielles Paradigma als Vorgehensmodell verwendet wird? </_Frage>
+
+		<AntwortR>Nur in der Definitionsphase</AntwortR>
+
+		<AntwortF>Immer </AntwortF>
+		
+		<AntwortF>Am Ende jeder Arbeitsphase</AntwortF>
+
+		<AntwortF>Nur während Meetings</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>7</number>
+
+		<_Frage>Was versteht man unter "Requirements Engineering"?</_Frage>
+
+		<AntwortR>Erheben, Dokumentieren, Prüfen und Verwalten von Anforderungen eines Systems</AntwortR>
+
+		<AntwortF>Die Dokumentation und Verwaltung von Anforderungen eines Systems</AntwortF>
+		
+		<AntwortF>Die Prüfung und Erhebung von Anforderungen des Klienten</AntwortF>
+
+		<AntwortF>Die Verwaltung des Systems und deren Anforderungen</AntwortF>
+
+	</Frage>
+	
+	<Frage>
+
+		<number>8</number>
+
+		<_Frage>Fehlerhaftes Requirements Engineering kann erhebliche Probleme ..... bedeuten.</_Frage>
+
+		<AntwortR>für die Entwicklung </AntwortR>
+
+		<AntwortF>mit dem Kunden</AntwortF>
+		
+		<AntwortF>für das System</AntwortF>
+
+		<AntwortF>bis hin zum WELTUNTERGANG</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>9</number>
+
+		<_Frage>Fehler während der Entwicklung zu beheben ist... </_Frage>
+
+		<AntwortR>wesentlich teurer</AntwortR>
+
+		<AntwortF>unmöglich</AntwortF>
+		
+		<AntwortF>leicht und billig, aber nervig</AntwortF>
+
+		<AntwortF>nervenaufreibend</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>10</number>
+
+		<_Frage>Was sind typische Symptome schlechten Engineerings?</_Frage>
+
+		<AntwortR>Anforderungen fehlen</AntwortR>
+
+		<AntwortF>Anforderungen sind von Beginn an vollständig</AntwortF>
+		
+		<AntwortF>System läuft modifizierbar</AntwortF>
+
+		<AntwortF>Systemtests fehlen</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>11</number>
+
+		<_Frage>Was kann ein Grund für schlechtes Engenieering sein?</_Frage>
+
+		<AntwortR>Unterschiedliche Wissensstände haben unterschiedliche Begriffsverständnisse zur Folge</AntwortR>
+
+		<AntwortF>Unterschiedliche Wissensstände haben zuviel Flexibilität für klare Programmstrukturen</AntwortF>
+		
+		<AntwortF>Mangelnde Gruppendynamik</AntwortF>
+
+		<AntwortF>Mangelnde Arbeitsmoral</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>12</number>
+
+		<_Frage>Was sind Stakeholder?</_Frage>
+
+		<AntwortR>Stakeholder können direkt oder indirekt Anforderungen mitgestalten</AntwortR>
+
+		<AntwortF>Englisches Wort für Steakhalter(Gabel)</AntwortF>
+		
+		<AntwortF>Stakeholder setzten die Anforderungen des Kunden um</AntwortF>
+
+		<AntwortF>Kunden wählen Stakeholder als Vertreter, um das Softewareprojekt zu überwachen</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>13</number>
+
+		<_Frage>Wieviele verschiedene Arten von Anforderungen gib es?</_Frage>
+
+		<AntwortR>3 (Funktionale Anforderungen, Qualitätsanforderungen, Randbedingungen)</AntwortR>
+
+		<AntwortF>2 (Qualitätsanforderungen, Randbedingungen)</AntwortF>
+		
+		<AntwortF>4 (Funktionale Anforderungen, Qualitätsanforderungen, Randbedingungen und Spezialanforderungen)</AntwortF>
+
+		<AntwortF>Anforderungen sind Anforderungen .... Wahnsinn</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>14</number>
+
+		<_Frage>Woher können Anforderungen kommen?</_Frage>
+
+		<AntwortR>Von Dokumenten der Stakeholder und Systemen im Betrieb</AntwortR>
+
+		<AntwortF>Nur durch Stakeholder</AntwortF>
+		
+		<AntwortF>Von Systemen, die von Stakeholdern benutzt werden</AntwortF>
+
+		<AntwortF>Durch Dokumente der Programmierer</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>15</number>
+
+		<_Frage>Was ist ein Modell?</_Frage>
+
+		<AntwortR>Ein Modell ist ein abstraktes Abbild einer existierenden, oder einer noch zu schaffenden, Realität</AntwortR>
+
+		<AntwortF>Ein Modell ist eine Miniatur eine bestehenden Realität</AntwortF>
+		
+		<AntwortF>Ein Modell ist ein Schema der noch zu schaffenden, oder bestehenden, Realität</AntwortF>
+
+		<AntwortF>Ein Modell ist ein Schema der Realität</AntwortF>
+
+	</Frage>
+
+</FragenAllgemein>

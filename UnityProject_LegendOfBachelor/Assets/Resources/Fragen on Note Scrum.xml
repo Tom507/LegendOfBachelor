@@ -1,0 +1,243 @@
+<FragenScrum>
+	<Frage>
+
+		<number>1</number>
+
+		<_Frage>Was ist ein Iteratives Paradigma?</_Frage>
+
+		<AntwortR>Ein evolutionäres Modell bzw. Arbeit in Zyklen</AntwortR>
+
+		<AntwortF>Ein evolutionäres Modell  bzw. Arbeit nach Entwicklungstand</AntwortF>
+		
+		<AntwortF>Ein Schritt- bzw. Testphasen-Modell </AntwortF>
+
+		<AntwortF>Vorgehensmethode nach der berühmt-berüchtigten "if-Schleife" (tut weh sowas zu schreiben!)</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>2</number>
+
+		<_Frage>Was nimmt in einem Arbeitszyklus zu?</_Frage>
+
+		<AntwortR>Die Systemgröße</AntwortR>
+
+		<AntwortF>Der Arbeitsaufwand</AntwortF>
+		
+		<AntwortF>Die Tests</AntwortF>
+
+		<AntwortF>Der Kapazitiätsanspruch der Software</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>3</number>
+
+		<_Frage>Was ermöglicht zyklische Arbeit?</_Frage>
+
+		<AntwortR>Die Anforderungen des Kunden zu erfüllen, auch bei sich ändernden Ansprüchen</AntwortR>
+
+		<AntwortF>Planbare Urlaubzeiten</AntwortF>
+		
+		<AntwortF>Feste Gehaltsstrukturen</AntwortF>
+
+		<AntwortF>Keine gelangweilten Programmierer</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>4</number>
+
+		<_Frage>Was ist das Adaptive Paradigma?</_Frage>
+
+		<AntwortR>Eine Weiterentwicklung des iterativen Paradigmas, bei der die Planung der Iterationen dynamisch erfolgt</AntwortR>
+
+		<AntwortF>Der Vorgänger des iterativen Paradigmas, bei der die Planung der Iterationen nicht dynamisch erfolgt</AntwortF>
+		
+		<AntwortF>Ein anpassungsfähiges Modell</AntwortF>
+
+		<AntwortF>Ein nicht anpassungsfähiges Modell</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>5</number>
+
+		<_Frage>Was ist das bekannteste Charateristikum des Adaptiven Paradigmas?</_Frage>
+
+		<AntwortR>Kontinuierliche Anpassung an Änderungen</AntwortR>
+
+		<AntwortF>Statik und Stabilität</AntwortF>
+		
+		<AntwortF>Reaktionsfreudige Programmierer</AntwortF>
+
+		<AntwortF>Selbständig laufende Tests</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>6</number>
+
+		<_Frage>Was bewirken Adaptive Pardigmen, wie z.B. Extreme Programing oder Scrum?</_Frage>
+
+		<AntwortR>Der Aufwand das Programm an Änderungswünsche anzupassen steigt nicht exponentiell </AntwortR>
+
+		<AntwortF>Der Aufwand das Programm an Änderungswünsche anzupassen steigt exponentiell</AntwortF>
+		
+		<AntwortF>Der Aufwand das Programm an Änderungswünsche anzupassen sinkt nicht exponentiell</AntwortF>
+
+		<AntwortF>Der Aufwand das Programm an Änderungswünsche anzupassen sinkt exponentiell</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>7</number>
+
+		<_Frage>Was sind Adaptive Vorgehensmodelle?</_Frage>
+
+		<AntwortR>XP / Scrum </AntwortR>
+
+		<AntwortF>Wasserfallmodell</AntwortF>
+		
+		<AntwortF>V-Modell</AntwortF>
+
+		<AntwortF>Prototypen-Modell</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>8</number>
+
+		<_Frage>Was ist die maximale Größe eines Scrum Teams?</_Frage>
+
+		<AntwortR>7</AntwortR>
+
+		<AntwortF>10</AntwortF>
+		
+		<AntwortF>3</AntwortF>
+
+		<AntwortF>6</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>9</number>
+
+		<_Frage>Wie nennt man die Arbeitzyklen in Scrum?</_Frage>
+
+		<AntwortR>Sprint</AntwortR>
+
+		<AntwortF>A-Zyklus</AntwortF>
+		
+		<AntwortF>Scrum</AntwortF>
+
+		<AntwortF>Arbeitzyklische Schleifenrotation</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>10</number>
+
+		<_Frage>Wo werden die Inhalte des zukünftigen Produkts festgeschrieben?</_Frage>
+
+		<AntwortR>Product Backlog</AntwortR>
+
+		<AntwortF>Sprint Backlog</AntwortF>
+		
+		<AntwortF>Scrum Backlog</AntwortF>
+
+		<AntwortF>Adaptive Cloud</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>11</number>
+
+		<_Frage>Was ist ein Sprint Backlog?</_Frage>
+
+		<AntwortR>Das Anschlagsbrett für die im Sprint zu erledigenden Aufgaben</AntwortR>
+
+		<AntwortF>Ein Rückblick auf geschaffte Arbeit im Sprint</AntwortF>
+		
+		<AntwortF>Ein Verzeichnis für alternative Programmiermethoden</AntwortF>
+
+		<AntwortF>Das Backlog für die Retrospektive</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>12</number>
+
+		<_Frage>Wie lange dauert ein Sprint in der Regel?</_Frage>
+
+		<AntwortR>30 Tage</AntwortR>
+
+		<AntwortF>14 Tage</AntwortF>
+		
+		<AntwortF>100 Tage</AntwortF>
+
+		<AntwortF>50 Tage</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>13</number>
+
+		<_Frage>Was steht am Ende eines Sprints?</_Frage>
+
+		<AntwortR>Rewiew</AntwortR>
+
+		<AntwortF>Auslieferung</AntwortF>
+		
+		<AntwortF>Entlassung</AntwortF>
+
+		<AntwortF>Erneuter Scrum</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>14</number>
+
+		<_Frage>Wie nennt man das Meeting, in dem über bessere Entwicklungsmethoden im Scrum-Modell gesprochen wird?</_Frage>
+
+		<AntwortR>Retrospektive</AntwortR>
+
+		<AntwortF>Rewiew</AntwortF>
+		
+		<AntwortF>Scrum</AntwortF>
+
+		<AntwortF>Sprint-Backlog-Rewiew</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>15</number>
+
+		<_Frage>Wer koordiniert die Teams bei einem Projekt, das aus mehreren Scrum-Teams besteht?</_Frage>
+
+		<AntwortR>Der Scrum Master</AntwortR>
+
+		<AntwortF>Der Scrum-Headassistant-Coach</AntwortF>
+		
+		<AntwortF>Product Owner</AntwortF>
+
+		<AntwortF>Stakeholder</AntwortF>
+
+	</Frage>
+
+ </FragenScrum>
+

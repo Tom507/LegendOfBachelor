@@ -1,0 +1,35 @@
+<FragenAllgemein>
+    <Frage>
+        <number>1</number>
+        <_Frage>Was ist Software?</_Frage>
+        <AntwortR>Programme und Verfahren eines Computersystems</AntwortR>
+        <AntwortF>Games wie das hier</AntwortF>
+        <AntwortF>Eine weiche materielle Ware</AntwortF>
+        <AntwortF>Edward Snowdens Tagebuch</AntwortF>
+    </Frage>
+    <Frage>
+        <number>2</number>
+        <_Frage>Was bedeutet Software Engineering?</_Frage>
+        <AntwortR>Planerisches Vorgehen bei Herstellung von Software unter Einhaltung der Kosten</AntwortR>
+        <AntwortF>Einhaltung des Projektbudgets</AntwortF>
+        <AntwortF>Planerisches Vorgehen</AntwortF>
+        <AntwortF>Reine Arbeit nach sequentiellen Paradigmen</AntwortF>
+    </Frage>
+    <Frage>
+        <number>3</number>
+        <_Frage>Was ist eine Software-Krise?</_Frage>
+        <AntwortR>Mangel an Qualität der Software</AntwortR>
+        <AntwortF>Mangel an der Software</AntwortF>
+        <AntwortF>Preisverfall der Software</AntwortF>
+        <AntwortF>Versions-Chaos</AntwortF>
+    </Frage>
+
+  <Frage>
+    <number>4</number>
+    <_Frage>Was ist der erste Schritt eines Projekts?	</_Frage>
+    <AntwortR>Das Problem zu verstehen</AntwortR>
+    <AntwortF>Eine Vision</AntwortF>
+    <AntwortF>Geld zu beschaffen und das Budget festzulegen</AntwortF>
+    <AntwortF>Den Projektleiter zu bestimmen</AntwortF>
+  </Frage>
+</FragenAllgemein>

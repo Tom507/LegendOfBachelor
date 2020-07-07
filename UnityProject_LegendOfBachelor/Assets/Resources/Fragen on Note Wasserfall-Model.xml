@@ -1,0 +1,243 @@
+<FragenW-Modell>
+	<Frage>
+
+		<number>1</number>
+
+		<_Frage>Wie oft kann zwischen den Sequenzen eines Wasserfall-Modells hin und her gewechselt werden?</_Frage>
+
+		<AntwortR>Nur bedingte Rückkopplung</AntwortR>
+
+		<AntwortF>So oft man will</AntwortF>
+		
+		<AntwortF>Nie</AntwortF>
+
+		<AntwortF>Nur nach Absprache mit dem Product Owner</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>2</number>
+
+		<_Frage>Wie viele Schritte braucht ein Wasserfall-Modell bis zur Auslieferung?</_Frage>
+
+		<AntwortR>6</AntwortR>
+
+		<AntwortF>4</AntwortF>
+		
+		<AntwortF>8</AntwortF>
+
+		<AntwortF>42</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>3</number>
+
+		<_Frage>Was folgt nach der Machbarkeitsstudie?</_Frage>
+
+		<AntwortR>Die Anforderungsanalyse</AntwortR>
+
+		<AntwortF>Der Coding- und Modultest</AntwortF>
+		
+		<AntwortF>Systementwurfs-Check</AntwortF>
+
+		<AntwortF>Die Projektleiterwahl</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>4</number>
+
+		<_Frage>Was ist eine Anforderungsanalyse?</_Frage>
+
+		<AntwortR>Eine konkrete Festlegung, was die Software leisten soll</AntwortR>
+
+		<AntwortF>Ein fester Bauplan für die Software</AntwortF>
+		
+		<AntwortF>Entwicklungs- und Testphase der Module</AntwortF>
+
+		<AntwortF>Eine Bestandsaufnahme der Bauteile einer Software</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>5</number>
+
+		<_Frage>Was folgt nach der Anforderungsanalyse?</_Frage>
+
+		<AntwortR>Der Systementwurf</AntwortR>
+
+		<AntwortF>Der Coding- und Modultest</AntwortF>
+		
+		<AntwortF>Der Sytementwurfs-Check</AntwortF>
+
+		<AntwortF>Die Projektleiterwahl</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>6</number>
+
+		<_Frage>Was ist ein Systementwurf?</_Frage>
+
+		<AntwortR>Ein fester Bauplan für die Software</AntwortR>
+
+		<AntwortF>Einhaltung der Ikea-Bauanleitung</AntwortF>
+		
+		<AntwortF>Das Grundgerüst eines jeden Projekts</AntwortF>
+
+		<AntwortF>Ein grober Bauplan der Software</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>7</number>
+
+		<_Frage>Was folgt nach dem Softwareentwurf?</_Frage>
+
+		<AntwortR>Der Coding- und Modultest</AntwortR>
+
+		<AntwortF>Systementwurfs-Check</AntwortF>
+		
+		<AntwortF>Die Projektleiterwahl</AntwortF>
+
+		<AntwortF>Entwicklung und Wartung</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>8</number>
+
+		<_Frage>Was ist der Coding- und Modultest?</_Frage>
+
+		<AntwortR>Entwicklungs- und Testphase der Module</AntwortR>
+
+		<AntwortF>Ein Testat in Webprogrammierung 1</AntwortF>
+		
+		<AntwortF>Implementierung von Code zur Modulstruktur und deren Testphase</AntwortF>
+
+		<AntwortF>Die kritischste Phase eines Projekts</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>9</number>
+
+		<_Frage>Was folgt nach dem Modultesten?</_Frage>
+
+		<AntwortR>Integration und Systemtest</AntwortR>
+
+		<AntwortF>Eine Retrospektive der Machbarkeitsstudie</AntwortF>
+		
+		<AntwortF>Sytementwurfs-Check</AntwortF>
+
+		<AntwortF>Die Projektleiterwahl</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>10</number>
+
+		<_Frage>Was sind Integration und Systemtest?</_Frage>
+
+		<AntwortR>Module werden zum Gesamtsystem zusammengebaut und getestet</AntwortR>
+
+		<AntwortF>Module werden bereinigt</AntwortF>
+		
+		<AntwortF>Module werden an Ikea für bessere Beschreibungen zum Aufbau von Möbeln weitergegeben</AntwortF>
+
+		<AntwortF>Das System wird an den zukünftigen Gebrauchsstellen integriert und getestet</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>11</number>
+
+		<_Frage>Was folgt nach dem Systemtest?</_Frage>
+
+		<AntwortR>Die Auslieferung</AntwortR>
+
+		<AntwortF>Der Coding- und Modultest</AntwortF>
+		
+		<AntwortF>Erstellung einer Anforderungsanalyse</AntwortF>
+
+		<AntwortF>Systementwurfs-Check</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>12</number>
+
+		<_Frage>Was folgt nach der Auslieferung eines Softwareprodukts?</_Frage>
+
+		<AntwortR>Die Wartung</AntwortR>
+
+		<AntwortF>Eine Retrospektive</AntwortF>
+		
+		<AntwortF>Nix, danach ist Schluss</AntwortF>
+
+		<AntwortF>Eine erneute Definitionsphase</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>13</number>
+
+		<_Frage>Wie hoch ist der Managementaufwand im Wasserfall-Modell?</_Frage>
+
+		<AntwortR>Gering</AntwortR>
+
+		<AntwortF>Hoch</AntwortF>
+		
+		<AntwortF>Abhängig vom Kunden</AntwortF>
+
+		<AntwortF>Abhängig vom Umfang des Projekts</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>14</number>
+
+		<_Frage>Welche Charakteristika besitzt das Wasserfall-Modell?</_Frage>
+
+		<AntwortR>Jeder Schritt muss in der richtigen Reihenfolge und in vollem Umfang durchgeführt werden</AntwortR>
+
+		<AntwortF>Arbeiten in der richtigen Reihenfolge und in vollem Umfang ist angedacht</AntwortF>
+		
+		<AntwortF>Arbeiten in der richtigen Reihenfolge und in vollem Umfang ist die Ausnahme</AntwortF>
+
+		<AntwortF>Es darf gearbeitet werden, wie die Programmierer es für angemessen halten</AntwortF>
+
+	</Frage>
+
+	<Frage>
+
+		<number>15</number>
+
+		<_Frage>Wie nennt man den Ansatz des Wasserfall-Modells?</_Frage>
+
+		<AntwortR>Top-Down Ansatz</AntwortR>
+
+		<AntwortF>Bottom-Up Anstaz</AntwortF>
+		
+		<AntwortF>Side-By-Side Ansatz</AntwortF>
+
+		<AntwortF>Waterboard Ansatz</AntwortF>
+
+	</Frage>
+
+
+</FragenW-Modell>
